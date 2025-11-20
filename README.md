@@ -1,5 +1,5 @@
-Usharani Balamurugan – Data Science Portfolio
-
+**Usharani Balamurugan – Data Science Portfolio
+**
 👩‍💻 About Me
 
 Hi, I’m Usharani Balamurugan, a data science enthusiast with experience in applied analytics, machine learning, and data visualization.
