@@ -20,13 +20,13 @@ Here are the projects showcasing my applied data science skills in DSC680:
 **
 
 **Uber Rides Analysis**
-https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Usharani_Balamurugan_DSC_680_Week3_White_Paper.pdf
+
 
 Tools: Time-series analysis, visualization
 
 View Project
 
-https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Uber_rides.ipynb
+(https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Project1/Uber_rides.ipynb)
 
 
 **Amazon Sales Report**
@@ -34,11 +34,10 @@ https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Uber_rides.ip
 Business insights from Amazon dataset.
 
 View Document
-https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Amzon_Sales.docx
+(https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Project2/Usharani_Balamurugan_DSC_680_Week3_White_Paper.docx)
 
 Functional Code Samples
-
-https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Amzon1%20(1).ipynb
+(https://github.com/ushafrag/DSC_680_Applied_Data_Science/blob/main/Project2/Amzon1%20(1).ipynb)
 
 View Repository
 
