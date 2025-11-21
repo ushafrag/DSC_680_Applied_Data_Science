@@ -2,7 +2,7 @@
 **Usharani Balamurugan – Data Science Portfolio**
 
 
-👩‍💻 About Me
+**👩‍💻 About Me**
 
 Hi, I’m Usharani Balamurugan, a data science enthusiast with experience in applied analytics, machine learning, and data visualization.
 
@@ -12,9 +12,8 @@ Hi, I’m Usharani Balamurugan, a data science enthusiast with experience in app
 
 🛠️ Skilled in Python, Jupyter, Pandas, Scikit-learn, and visualization tools# DSC_680_Applied_Data_Science
 
-📂 Work
+**📂 Work**
 
-Featured Projects
 **
 Here are the projects showcasing my applied data science skills in DSC680:
 **
